@@ -1,0 +1,5 @@
+-5 atributos com 4 tipos de visibilidade
+-Construtor
+-toString
+-getters e setters
+-encapsulamento e sobrecarga
